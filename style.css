@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color:rgb(28, 28, 66);
+} 
+h1{
+  color: rgb(214, 20, 20);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
