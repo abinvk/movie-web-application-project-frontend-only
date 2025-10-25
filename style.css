@@ -1,9 +1,59 @@
 body {
   margin: 0;
   padding: 0;
-  background-color:rgb(28, 28, 66);
+  background-color:black;
 } 
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgba(187, 0, 0, 0);
+  padding: 10px;
+  
+}
 h1{
   color: rgb(214, 20, 20);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+  border-radius: 15px;
+  padding: 10px;
+  background-color: black;
+  border-color: white;
+  width: 300px;
+  text-align: center;
+  color: white;
+  
+  
+}
+.button1{
+  border-radius: 150px;
+  padding: 10px;
+  background-color: black;
+  border-color: white;
+  color: white;
+  width: 100px;
+}
+i{
+  color: white;
+  font-size: 24px;
+}
+.h1container1{
+  color: blue;
+}
+.div2{
+  color: white;
+}
+.sidebar{
+width: 250px;
+height: 80vh;
+background-color: white;
+border-color: white;
+padding: 25px 20px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+a{
+  color: black;
 }
