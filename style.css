@@ -23,8 +23,12 @@ input{
   width: 300px;
   text-align: center;
   color: white;
-  
-  
+  cursor: pointer;
+}
+i{
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
 }
 .button1{
   border-radius: 150px;
@@ -33,10 +37,7 @@ input{
   border-color: white;
   color: white;
   width: 100px;
-}
-i{
-  color: white;
-  font-size: 24px;
+  cursor: pointer;
 }
 .h1container1{
   color: blue;
@@ -56,4 +57,22 @@ justify-content: space-between;
 }
 a{
   color: black;
+}
+
+.button2, .button3, .button4, .button5, .button6, .button7{
+  border-radius: 150px;
+  padding: 10px;
+  background-color: black;
+  border-color: white;
+  color: white;
+  width: 235px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border-color: white;
+}
+.image1{
+  width: 60px;
+  height: 80px;
+  margin-top: 20px;
+  padding-top: 300px;
 }
